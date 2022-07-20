@@ -67,7 +67,7 @@ function init() {
     
           steam(data) {
             let username = data.trim();
-            return `https://steamcommunity.com/id/l19u1dxd/`;
+            return `https://steamcommunity.com/id/Quarte/`;
           },
           
             instagram(data) {
@@ -77,7 +77,7 @@ function init() {
           
           vk(data) {
             let username = data.trim();
-            return `https://www.instagram.com/tadakatssu/?hl=ru`;
+            return `https://www.instagram.com/michaelscheb/?hl=ru`;
           }
         }
       },
