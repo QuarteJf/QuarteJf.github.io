@@ -12,7 +12,7 @@ let config = {
   // Социальные сети
   social: {
     telegram: '@Quarte_Jq',
-    steam: 'Quarte',
+    whatsapp: '+972557231493',
     vk: 'Quarte_CR',
   },
 
